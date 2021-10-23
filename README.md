@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AnthonyWesthead
+- 👀 I’m interested in Computer Coding
+- 🌱 I’m currently learning Computer Coding
+- 💞️ I’m looking to collaborate on A security system that is efficent
+- 📫 How to reach me: I have no idea at all
